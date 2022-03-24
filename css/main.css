@@ -5,6 +5,11 @@ html {
   line-height: 1.5;
 }
 
+header h1 {
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
 h1, h2 {
   font-size: 1.5rem;
   color: #3f1622;
@@ -48,4 +53,15 @@ li:last-child {
 a:hover {
   color: #c9b5ab;
   text-decoration: line-through;
+}
+
+img figcaption {
+  font-weight: normal;
+}
+
+main p {
+  font-weight: bold;
+  font-family: PT;
+  font-size: 1.5rem;
+  color: #222;
 }
