@@ -5,6 +5,16 @@ html {
   line-height: 1.5;
 }
 
-h1 {
+h1, h2 {
   font-size: 1.5rem;
+  color: #3f1622;
+}
+
+h1 i {
+  font-weight: bold;
+}
+
+nav li {
+  font-weight: bold;
+  font-family: PT;
 }
