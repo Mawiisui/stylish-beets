@@ -14,7 +14,38 @@ h1 i {
   font-weight: bold;
 }
 
-nav li {
+ol li {
   font-weight: bold;
   font-family: PT;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
+
+li {
+  /* font-size: 1.125rem; */
+  font-weight: bold;
+  font-family: PT;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
+
+li:last-child {
+  /* font-size: 1.125rem; */
+  font-weight: bold;
+  font-family: PT;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
+
+[href^="http://"] {
+  /* font-size: 1.125rem; */
+  font-weight: bold;
+  font-family: PT;
+  font-size: 1.125rem;
+  color: #8f2440;
+}
+
+a:hover {
+  color: #c9b5ab;
+  text-decoration: line-through;
 }
