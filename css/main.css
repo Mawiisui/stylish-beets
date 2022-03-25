@@ -1,8 +1,22 @@
 html {
+  /* Everything in here will design the HTML element */
   box-sizing: border-box;
   background-color: #c9b5ab;
   font-family: Georgia, serif;
   line-height: 1.5;
+}
+
+a {
+  background-color: #c9b5ab;
+  text-decoration: line-through;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
 }
 
 header h1 {
