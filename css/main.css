@@ -81,3 +81,8 @@ blockquote p {
 nav ol {
   list-style-type: none;
 }
+
+h2 p data {
+  font-style: italic;
+  font-size: 1.125rem;
+}
